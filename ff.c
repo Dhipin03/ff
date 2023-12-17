@@ -80,3 +80,9 @@ void follow(char c) {
         }
     }
 }
+
+S=AbCd
+A=Cf
+A=a
+C=gE
+E=h
